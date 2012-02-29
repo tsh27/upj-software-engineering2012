@@ -1,0 +1,26 @@
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\UPJTowerDefense.exe
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\UPJTowerDefense.pdb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\obj\x86\Debug\UPJTowerDefense.exe
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\obj\x86\Debug\UPJTowerDefense.pdb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\Square.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\Pericles.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\SidePanel.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\PanelFont.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\InfoPanel.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\arrow tower.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\UPJTowerDefense.exe.manifest
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\UPJTowerDefense.application
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\obj\x86\Debug\UPJTowerDefense.exe.manifest
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\obj\x86\Debug\UPJTowerDefense.application
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\glomag-red_pixel_dust.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\scifi002.xnb
+C:\Users\deronius\Desktop\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\UPJTowerDefense\bin\x86\Debug\Content\glomag-red_pixel_dust.wma
